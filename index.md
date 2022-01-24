@@ -8,6 +8,6 @@
 
 - [In this homework](Homework_3.html) ,we are asked to construct a pipeline which performs K-NN Classifier on 5 different time series data taken from http://www.timeseriesclassification.com/http://www.timeseriesclassification.com/. The data sets chosen for the homework are Power Consumption , ECG200, Fish , Large Kitchen Appliences and Plane Figures datasets. The desired pipeline is expected to do Cross Validation on K value on train data and to decide paramaters of representations, to construct best model and then test it on the test data based on performance measures. After looking the data set briefly, I manipulated them in a similar way and let the pipeline show me the results of the different techniques based on accuracy measures.
 
-[In this project](Group4_Project_Report.html), the main task is to develop an approach for the classification of imbalance sign for Turkish electricity market from January 8th, 2022 to 22 January 2022. Every day, the predictions consist of the prediction of the system imbalance of the next 24 hours of the next day using the data available, i.e. data until the day before (included).
+- [In this project](Group4_Project_Report.html), the main task is to develop an approach for the classification of imbalance sign for Turkish electricity market from January 8th, 2022 to 22 January 2022. Every day, the predictions consist of the prediction of the system imbalance of the next 24 hours of the next day using the data available, i.e. data until the day before (included).
 
-Related codes can be seen [here](Group4_Project_Report.ipynb)
+- Related codes can be seen [here](Group4_Project_Report.ipynb)
